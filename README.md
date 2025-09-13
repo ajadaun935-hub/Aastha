@@ -155,9 +155,7 @@ flask
 gunicorn
 │── static/
     │![1000163415](https://github.com/user-attachments/assets/fcfb3190-07da-44ab-996a-800d65537318)
-── logo.png![1000163425](https://github.com/user-attachments/assets/c1158cd0-6885-4b66-95b6-772afc1f37a5)
-
-    ![1000163419](https://github.com/user-attachments/assets/d5590719-ea81-4205-b2cf-c44f3ccf420d)
+── logo.png
 ![1000163418](https://github.com/user-attachments/assets/755445d4-0320-4201-9f55-40870936094a)
 │── school-building.jpg
     ![1000163423](https://github.com/user-attachments/assets/a1d850b5-07f1-45da-ad16-ad3ffa5de57c)
